@@ -1,10 +1,10 @@
 # Prompt-Engineering-Insights
-# 🧠 Prompt Engineering Insight  
+# Prompt Engineering Insight  
 **LLM vs. Human Reasoning – by Oluwatobi Abiola Obaro**
 
 Exploring the edges of AI cognition, system design, and prompt strategy.
 
-## 🧪 Comparative Breakdown: LLM vs. Human Prompt Engineer
+## Comparative Breakdown: LLM vs. Human Prompt Engineer
 
 | Prompt | LLM (Large Language Model) | Human Prompt Engineer |
 |--------|-----------------------------|------------------------|
@@ -15,7 +15,7 @@ Exploring the edges of AI cognition, system design, and prompt strategy.
 
 ---
 
-## 🧠 Key Differences
+## Key Differences
 
 | Capability | LLM | Human |
 |------------|-----|-------|
@@ -27,7 +27,7 @@ Exploring the edges of AI cognition, system design, and prompt strategy.
 
 ---
 
-## 🎯 Why This Matters
+## Why This Matters
 
 > Prompt engineering isn't just about syntax — it's about **understanding how intelligence behaves**.
 
